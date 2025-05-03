@@ -10,5 +10,7 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
-![{5048E66D-9EFB-48AC-877C-F1B2498DAEF5}](https://github.com/user-attachments/assets/721a3498-c219-46e9-9d77-5b8b739684b9)
+![{D84D6395-077C-40E1-A02D-F668296C477D}](https://github.com/user-attachments/assets/6ec57865-39b2-4a1c-83f2-7b65510ffbe6)
+
+![{E6D96C98-D196-4559-80C7-4735CC8B1134}](https://github.com/user-attachments/assets/075d210d-6220-4571-921b-7514ee0e363f)
 
